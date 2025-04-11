@@ -40,6 +40,7 @@ The hybrid deep learning model integrates various techniques for enhanced threat
 - **CNNs** or **RNNs** for malware classification
 - **Transformer models** (e.g., BERT) for NLP-based threat intelligence
 - **LSTMs** or **Autoencoders** for behavioral anomaly detection
+- **Hybrid model**:Use hybrid of CNN and LSTM
 
 ## Getting Started
 
